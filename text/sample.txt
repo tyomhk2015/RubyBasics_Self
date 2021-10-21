@@ -1,0 +1,10 @@
+This is a sample text file.
+Testing reading a file.
+If the file reading was a success,
+this will be readable.
+
+Long live the godess of Hololive!
+A new sentence has been added via syswrite().
+A new sentence has been added via syswrite().
+A new sentence has been added via syswrite().
+A new sentence has been added via syswrite().
